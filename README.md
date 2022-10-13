@@ -1,6 +1,3 @@
-Storybook: https://casualmente.github.io/ignite-lab-design-system/?path=/story/components-textinput--default <br>
-Figma: https://www.figma.com/file/yc61ktHVX0bquoabYlpy84/Ignite-Lab-Design-System?node-id=2%3A171
-
 # ignite-lab-design-system
 ![image](https://user-images.githubusercontent.com/112674398/195486338-cf1435ba-8a4a-4e67-beee-cdd2b8df8fbf.png)
 Project developed during ignite lab 03
@@ -23,3 +20,7 @@ In addition to React, Storybook and Figma, we use TypeScript, Vite, Tailwind, Ra
 - Radix-ui
 - Clsx
 - Workflows with yml. (CI/CD)
+
+## Pages
+Storybook: https://casualmente.github.io/ignite-lab-design-system/?path=/story/components-textinput--default <br>
+Figma: https://www.figma.com/file/yc61ktHVX0bquoabYlpy84/Ignite-Lab-Design-System?node-id=2%3A171

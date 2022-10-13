@@ -1,5 +1,5 @@
 Storybook: https://casualmente.github.io/ignite-lab-design-system/?path=/story/components-textinput--default <br>
-
+Figma: https://www.figma.com/file/yc61ktHVX0bquoabYlpy84/Ignite-Lab-Design-System?node-id=2%3A171
 
 # ignite-lab-design-system
 ![image](https://user-images.githubusercontent.com/112674398/195486338-cf1435ba-8a4a-4e67-beee-cdd2b8df8fbf.png)
@@ -13,12 +13,13 @@ It was very productive, I learned a lot of amazing and really useful things in e
 
 In addition to React, Storybook and Figma, we use TypeScript, Vite, Tailwind, Radix-ui, Clsx, and we also had experience with a Workflow (CI/CD) for automatic self-deploying of any future updates/changes to the code, for the Storybook. <br>
 
-## Technologies and tools used
+## Technologies and tools used.
 - Figma
 - TypeScritp
 - Tailwind
 - Storybook
-- Reactjs
+- Storybook addons (a11y) for easily Acessibility.
+- React
 - Radix-ui
 - Clsx
 - Workflows with yml. (CI/CD)
